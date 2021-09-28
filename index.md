@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Dilki Nipuni Rathnayaka
 
-You can use the [editor on GitHub](https://github.com/PavithriDeshani/mine/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ready to accept challenge in any situation. Resposible and ambitious person. Ability work in high pressure. Hardworking and bringing forth a positive attitude.Effective communicational and interpersonal skills. I am a good team player.
 
-### Markdown
+You can use the [My Personal Information](https://github.com/PavithriDeshani/newone/blob/d6600e66b1f23cd1a7c2a4d71966644b963e2d60/Resume%20assignment%20it.pdf) for PDF version.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![image](WhatsApp%20Image%202021-09-22%20at%208.50.01%20AM.jpeg)
 
-```markdown
-Syntax highlighted code block
+### Educational Qualifications
 
-# Header 1
-## Header 2
-### Header 3
+- Secondary education
+  1.G.C.E. Ordinary Level (2014)
+  2.G.C.E. Advanced Level (2019)
+  
+- Higher education
+  1. Diploma in English
+  2. Certificate in English
+  3. Certiicate in Radio presenting
+  4. 
+### Work Experiences
 
-- Bulleted
-- List
+**Radio presenter at Rajarata FM**
 
-1. Numbered
-2. List
+### Personal Details 
+Name - Dilki
+Birthday 1998.09.09
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/PavithriDeshani/mine/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
