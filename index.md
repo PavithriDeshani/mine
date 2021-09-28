@@ -4,9 +4,7 @@
 
 Ready to accept challenge in any situation. Resposible and ambitious person. Ability work in high pressure. Hardworking and bringing forth a positive attitude.Effective communicational and interpersonal skills. I am a good team player.
 
-You can use the [My Personal Information](https://github.com/PavithriDeshani/newone/blob/d6600e66b1f23cd1a7c2a4d71966644b963e2d60/Resume%20assignment%20it.pdf) for PDF version.
 
-![image](WhatsApp%20Image%202021-09-22%20at%208.50.01%20AM.jpeg)
 
 ### Educational Qualifications
 
